@@ -1,7 +1,7 @@
 # Documentation
 Projects documentation
 
-Please check the [wiki](https://dd.com)
+Please check the [wiki](https://github.com/maurodelazeri/Documentation/wiki)
 
 
 ### External recipies
