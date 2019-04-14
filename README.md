@@ -28,4 +28,5 @@ conan-tbb
 conan-asio
 conan-boost
 conan-websocketpp
+conan-nng
 ```
