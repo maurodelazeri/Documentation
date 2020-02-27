@@ -14,5 +14,5 @@ docker run -p 6080:6080 zinnionlcc/zinnion-desktop
 
 * DEV image
 ```
-docker run -p 6080:6080 -p 3000:3000 -p 50050:50050 -p 50051:50051 -p 50052:50052 -p 50053:50053 -p 50054:50054 -v /opt/zinnion/:/home/mauro/zinnion -v /root/.ssh/:/root/.ssh/ zinnionlcc/zinnion-desktop-dev
+docker run --privileged -p 6080:6080 -p 3000:3000 -p 50050:50050 -p 50051:50051 -p 50052:50052 -p 50053:50053 -p 50054:50054 -v /opt/zinnion/:/home/mauro/zinnion -v /root/.ssh/:/root/.ssh/ zinnionlcc/zinnion-desktop-dev-data
 ```
